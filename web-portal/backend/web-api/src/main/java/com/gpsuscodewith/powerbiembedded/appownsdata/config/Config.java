@@ -34,7 +34,7 @@ public abstract class Config {
 
     // Enter ServicePrincipal credentials
     public static final String tenantId = "3b6493fa-f7f3-458c-acd8-5356564158e1";
-    public static final String appSecret = "e74C-rCtaPb2~4_W106q5-3c3S8-vJJx~m";
+    public static final String appSecret = "jEk8Q~Pkk9GSUYSdQieSlE26Z3EU17tIMEvXObru";
 
     //	DO NOT CHANGE
     public static final String authorityUrl = "https://login.microsoftonline.com/";
